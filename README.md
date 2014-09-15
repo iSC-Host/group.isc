@@ -9,6 +9,9 @@
 
 The *official website* of **iSC Group**.
 
+## Contributors
+* [Suriyaa Kudo](https://github.com/SuriyaaKudoIsc)
+* [others](https://github.com/iSC-Host/group.isc/graphs/contributors)
 
 ----
 (c) *2014-present* **iSC Host & iSC Group**
